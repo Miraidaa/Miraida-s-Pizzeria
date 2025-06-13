@@ -13,7 +13,7 @@ Build Tools: Create React App (CRA)
 Testing: React Testing Library, Jest
 Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/miraidas-pizzeria.git
+   git clone https://github.com/Miraidaa/Miraida-s-Pizzeria.git
    cd miraidas-pizzeria
 2. Install dependencies:
    npm install
